@@ -1,4 +1,4 @@
-export default Navbar(){
+export default function Navbar() {
     return (
         <nav className="flex justify-between items-center p-6 bg-white shadow-md">
             <h1 className="text-2xl font-bold text-blue-600">My stote</h1>
